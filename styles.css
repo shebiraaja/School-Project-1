@@ -1,0 +1,10 @@
+.card-img-top{
+    transition-timing-function: ease-in-out;
+    transition: .5s;
+
+}
+
+.card-img-top:hover{
+    transform: scale(1.045);
+}
+
