@@ -2,9 +2,19 @@ body{
     background-color: #EEEEEE;
 }
 
-.navbar-nav{
-    color: white;
+.navbar{
+    background-color: #EEEEEE;
+    box-shadow: 15px 4px 20px #88888869;
+
 }
+
+.carousel{
+    background-color: #EEEEEE;
+    box-shadow: 5px 10px #EEEEEE;
+
+    
+}
+
 
 .card{
     background-color: #EEEEEE;
@@ -21,3 +31,36 @@ body{
     transform: scale(1.045);
 }
 
+.img-serie{
+    border-radius: 50%;
+    border: solid 3px white;
+}
+
+#inscripcion{
+    margin: 0px;
+    background: gray;
+    width: 100%;
+    padding-top: 100px;
+    height: 350px;
+    margin-bottom: 30em;
+
+}
+
+.field{
+    width: 300px;
+    transition: .8s;
+}
+
+.field:hover{
+    transform: scale(1.01);
+}
+
+.bold-cond{
+    font-weight: bold;
+}
+
+.footer{
+    margin-top: 300px;
+    border-top: 1px solid black;
+    background: gray;
+}
