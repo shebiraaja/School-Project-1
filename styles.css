@@ -5,7 +5,9 @@ body{
 .navbar{
     background-color: #EEEEEE;
     box-shadow: 15px 4px 20px #88888869;
-
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 .carousel{
@@ -64,3 +66,9 @@ body{
     border-top: 1px solid black;
     background: gray;
 }
+
+.navbar-collapse{
+    position: absolute;
+    right: 40px;
+}
+
