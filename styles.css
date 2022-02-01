@@ -40,7 +40,7 @@ body{
 
 #inscripcion{
     margin: 0px;
-    background: gray;
+    background: rgb(128, 128, 128);
     width: 100%;
     padding-top: 100px;
     height: 350px;
@@ -71,4 +71,3 @@ body{
     position: absolute;
     right: 40px;
 }
-
