@@ -67,6 +67,10 @@ body{
     background: gray;
 }
 
+#footeraboutus{
+    margin-top: 100px;
+}
+
 .navbar-collapse{
     position: absolute;
     right: 40px;
