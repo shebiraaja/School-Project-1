@@ -68,15 +68,8 @@ body{
     background: gray;
 }
 
-<<<<<<< HEAD
 #footeraboutus{
     margin-top: 100px;
-=======
-.footerabout{
-    margin-top: 100px;
-    background-color: gray;
-    width: 100%;
->>>>>>> 350c88af999ea662686207869184379fc894a5ee
 }
 
 .navbar-collapse{
